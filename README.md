@@ -38,15 +38,18 @@ This project presents a complete system for analyzing climate patterns and predi
 
 1. Clone the repository:
 
-   git clone https://github.com/bnusuwal/Simple-ML-project-.git
-   cd Simple-ML-project-
+- git clone https://github.com/bnusuwal/Simple-ML-project-.git
 
-2.Install the required packages:
-pip install -r requirements.txt
+  -cd Simple-ML-project-
+
+  2.Install the required packages:
+
+-pip install -r requirements.txt
 
 3.Running the App Locally:
-streamlit run app.py
-Note:The application will launch in your default browser (usually at http://localhost:8501).
+
+-streamlit run app.py
+-Note:The application will launch in your default browser (usually at http://localhost:8501).
 
 ## 🖥️ Live Demo
 
