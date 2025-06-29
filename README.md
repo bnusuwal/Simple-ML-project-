@@ -38,8 +38,8 @@ This project presents a complete system for analyzing climate patterns and predi
 
 1. Clone the repository:
 
-git clone https://github.com/bnusuwal/Simple-ML-project-.git
-cd Simple-ML-project-
+   git clone https://github.com/bnusuwal/Simple-ML-project-.git
+   cd Simple-ML-project-
 
 2.Install the required packages:
 pip install -r requirements.txt
@@ -48,12 +48,14 @@ pip install -r requirements.txt
 streamlit run app.py
 Note:The application will launch in your default browser (usually at http://localhost:8501).
 
-🖥️ Live Demo
+## 🖥️ Live Demo
+
 Access the deployed web application below:
 
 🔗 https://bnusuwal-simple-ml-project--app-xtss36.streamlit.app/
 
-📌 Features
+## Features
+
 🔍 Interactive exploration of climate and fire data
 
 📈 Machine learning predictions for forest fire risk
