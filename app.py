@@ -17,6 +17,12 @@ import joblib
 import pickle
 from streamlit_folium import st_folium
 
+import streamlit as st
+
+st.set_page_config(
+    page_title="Forest Fire Prediction App",  # Title in the browser tab
+    
+)
 
 
 def set_background_and_styles():
